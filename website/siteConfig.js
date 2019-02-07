@@ -64,6 +64,12 @@ const users = [
     image: "img/logos/svco.svg",
     infoLink: "https://www.sv.co",
     pinned: true
+  },
+  {
+    caption: "HawaiiChee.com Vacation Rentals",
+    image: "img/logos/svco.svg",
+    infoLink: "https://www.hawaiichee.com",
+    pinned: true
   }
 ];
 
